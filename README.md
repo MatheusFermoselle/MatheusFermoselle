@@ -1,7 +1,7 @@
 
 ### Hello i'm Matheus Fermoselle 👋
 - 💻 information systems student (SPtech)
-- 📫 Contact: ruan.santos@sptech.school
+- 📫 Contact: matheus.vsilva@sptech.school
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFermoselle&show&count_private=true&icons=true&theme=material-palenight)
